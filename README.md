@@ -89,7 +89,7 @@ Once the producer starts, you will see predictions printing live in the consumer
 ---
 
 ## Video Demo
-*(Paste your YouTube unlisted or Google Drive link here)*
+*https://drive.google.com/file/d/1dxeCVQQkHPv86F2YFNyKgNS63dowgjkn/view?usp=share_link*
 
 ---
 
